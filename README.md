@@ -6,8 +6,8 @@
 - Java
 - JavaScript
 
-## Known Frameworks
-- [ASP.Net](https://dotnet.microsoft.com/apps/aspnet) (Very limited experience with front-end development)
+## Known Frameworks (Very limited experience with front-end development)
+- [ASP.Net](https://dotnet.microsoft.com/apps/aspnet)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [jQuery](https://jquery.com/)
