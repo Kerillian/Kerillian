@@ -1,16 +1,13 @@
-### Hi there 👋
+## Known Languages (Ordered by most experience)
+- C#
+- Python
+- Lua
+	- [MoonScript](https://moonscript.org/)
+- Java
+- JavaScript
 
-<!--
-**Kerillian/Kerillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Known Frameworks
+- [ASP.Net](https://dotnet.microsoft.com/apps/aspnet) (Very limited experience with front-end development)
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [jQuery](https://jquery.com/)
