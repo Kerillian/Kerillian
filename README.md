@@ -1,3 +1,7 @@
+# Kerillian
+#### Contact
+- Discord: Kerillian#1010
+
 ## Known Languages (Ordered by most experience)
 - C#
 - Python
