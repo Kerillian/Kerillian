@@ -1,6 +1,6 @@
 # Kerillian
 #### Contact
-- Discord: Kerillian#9022
+- Github only.
 
 ## Known Languages (Ordered by most experience)
 - C#
