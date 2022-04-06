@@ -3,14 +3,14 @@
 	<br>
 	<br>
 	<samp>
-	╭─────────────────────────────────────────╮
+	╭──────────────────────────────╮
 	<br>
-	Hobbyist backend developer.
+	Hobbyist backend developer
 	<br>
 	<br>
 	C#, Python, Lua, Java, Javascript
 	<br>
-	╰─────────────────────────────────────────╯
+	╰───────────────────────────────────╯
 	</samp>
 	<br>
 	<br>
