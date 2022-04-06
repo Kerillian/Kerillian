@@ -1,17 +1,21 @@
-# Kerillian
-#### Contact
-- Github only.
-
-## Known Languages (Ordered by most experience)
-- C#
-- Python
-- Lua
-	- [MoonScript](https://moonscript.org/)
-- Java
-- JavaScript
-
-## Known Frameworks (Very limited experience with front-end development)
-- [ASP.Net](https://dotnet.microsoft.com/apps/aspnet)
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [jQuery](https://jquery.com/)
+<p align="center">
+	<br>
+	<br>
+	<br>
+	<samp>
+	╭━━━━━━━━━━━━━━━━━━━━━━━━╮
+	<br>
+	Hobbyist backend developer.
+	<br>
+	<br>
+	C#, Python, Lua, Java, Javascript
+	<br>
+	╰━━━━━━━━━━━━━━━━━━━━━━━━╯
+	</samp>
+	<br>
+	<br>
+	<br>
+	<a href="https://www.youtube.com/c/DEMONDICEKAREN">
+		<img height="450" src="./media/cutout.png"></br>
+	<a>
+</p>
