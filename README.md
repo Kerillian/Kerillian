@@ -12,6 +12,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-060660?style=for-the-badge&logo=javascript&logoColor=FBE7A4">
 	<br>
 	<img src="https://img.shields.io/badge/ASP.NET-060660?style=for-the-badge&logo=.net&logoColor=FBE7A4">
+	<img src="https://img.shields.io/badge/Blazor-060660?style=for-the-badge&logo=blazor&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/SQLite-060660?style=for-the-badge&logo=sqlite&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/MySQL-060660?style=for-the-badge&logo=mysql&logoColor=FBE7A4">
 	<br>
