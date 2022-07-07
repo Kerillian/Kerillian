@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/C%23-060660?style=for-the-badge&logo=c-sharp&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/Python-060660?style=for-the-badge&logo=python&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/Lua-060660?style=for-the-badge&logo=lua&logoColor=FBE7A4">
-	<img src="https://img.shields.io/badge/Java-060660?style=for-the-badge&logo=java&logoColor=FBE7A4">
+	<img src="https://img.shields.io/badge/OpenJDK-060660?style=for-the-badge&logo=java&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/JavaScript-060660?style=for-the-badge&logo=javascript&logoColor=FBE7A4">
 	<br>
 	<img src="https://img.shields.io/badge/ASP.NET-060660?style=for-the-badge&logo=.net&logoColor=FBE7A4">
