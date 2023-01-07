@@ -6,6 +6,7 @@
 	</a>
 	<br>
 	<img src="https://img.shields.io/badge/C%23-060660?style=for-the-badge&logo=c-sharp&logoColor=FBE7A4">
+	<img src="https://img.shields.io/badge/Rust-060660?style=for-the-badge&logo=rust&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/Python-060660?style=for-the-badge&logo=python&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/Lua-060660?style=for-the-badge&logo=lua&logoColor=FBE7A4">
 	<img src="https://img.shields.io/badge/Java-060660?style=for-the-badge&logo=openjdk&logoColor=FBE7A4">
