@@ -2,8 +2,11 @@
 	<br>
 	<br>
 	<a href="https://kerillian.cc">
-		<img width="550" src="./media/text.png"></br>
+		<img width="550" src="./media/Sheep.png"></br>
 	</a>
+	<i><q>Do computers dream of electirc sheep?</q></i>
+	<br>
+	<br>
 	<br>
 	<a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/C%23-060660?style=for-the-badge&logo=c-sharp&logoColor=FBE7A4"></a>
 	<a href="https://crystal-lang.org/"><img src="https://img.shields.io/badge/Crystal-060660?style=for-the-badge&logo=crystal&logoColor=FBE7A4"></a>
@@ -17,12 +20,5 @@
 	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://img.shields.io/badge/Blazor-060660?style=for-the-badge&logo=blazor&logoColor=FBE7A4"></a>
 	<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-060660?style=for-the-badge&logo=sqlite&logoColor=FBE7A4"></a>
 	<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-060660?style=for-the-badge&logo=mysql&logoColor=FBE7A4">
-	<br>
-	<br>
-	<br>
-	<a href="https://www.youtube.com/c/DEMONDICEKAREN">
-		<img height="450" src="./media/cutout.png"></br>
-	</a>
-	<br>
 	<br>
 </p>
